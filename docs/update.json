@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 83,
-  "versionName": "2.4.0",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.4.0/BorodaFM_2.4.0-release.apk",
-  "sha256": "1ef0a4cd0a7c2f7e1715c21025221ebde26eb1e54071bbf044a74bfbd0971237",
-  "notes": "Проверка обновлений приложения: раз в сутки, отключается в меню",
+  "versionCode": 84,
+  "versionName": "2.4.1",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.4.1/BorodaFM_2.4.1-release.apk",
+  "sha256": "6462c4d1d428e8137b5c3d4a153da7666b47b7b6098acec4ea682b8c02840eaf",
+  "notes": "Результат проверки обновлений показывается диалогом",
   "mandatory": false,
-  "publishedAt": "2026-09-27T07:38:19Z"
+  "publishedAt": "2026-09-27T07:47:12Z"
 }
