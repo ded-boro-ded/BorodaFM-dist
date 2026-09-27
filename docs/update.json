@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 90,
-  "versionName": "2.6.2",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.6.2/BorodaFM_2.6.2-release.apk",
-  "sha256": "393831228529c613422b2368abfe2d9921bd004c6c6e114daef4d776e6dd8d61",
-  "notes": "Анонимная статистика заработала. Состав отправляемых данных не изменился.",
+  "versionCode": 91,
+  "versionName": "2.7.0",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.7.0/BorodaFM_2.7.0-release.apk",
+  "sha256": "b0e26052f749986fdafbb3953e7d712eacfae48b05f527912000ee26820befa9",
+  "notes": "Новые станции каталога помечаются меткой NEW (14 дней); после обновления каталога один раз показывается баннер «Каталог обновлён: +N станций». Добавлена подробная инструкция по менеджеру станций.",
   "mandatory": false,
-  "publishedAt": "2026-09-27T11:10:52Z"
+  "publishedAt": "2026-09-27T12:39:29Z"
 }
