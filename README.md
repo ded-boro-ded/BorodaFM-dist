@@ -252,8 +252,22 @@
 ### 🚗 Автомагнитола (ГУ)
 
 На автомагнитоле тот же интерфейс, но крупнее и под горизонтальный экран: кнопки и плитки
-больше, навигация подстроена под управление с руля и тач. Скриншоты с ГУ будут добавлены
-после съёмки с подключённой автомагнитолы.
+больше, навигация подстроена под управление с руля и тач. Ниже — съёмка с ГУ
+(Android 8.1, экран 1920×1080), светлая и тёмная темы, «Названия станций» и «Затемнение плиток» включены.
+
+<p align="center">
+  <img src="docs/screenshots/gu/light/01-main.jpg" width="200" alt="Главный экран (ГУ, светлая): названия станций и затемнение плиток">
+  <img src="docs/screenshots/gu/light/09-now-playing.jpg" width="200" alt="Плеер (ГУ, светлая): видно текущий трек (ICY)">
+  <img src="docs/screenshots/gu/light/05-equalizer.jpg" width="200" alt="Эквалайзер (ГУ, светлая)">
+  <img src="docs/screenshots/gu/light/04-genres.jpg" width="200" alt="Жанры (ГУ, светлая)">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/gu/dark/01-main.jpg" width="200" alt="Главный экран (ГУ, тёмная): названия станций и затемнение плиток">
+  <img src="docs/screenshots/gu/dark/09-now-playing.jpg" width="200" alt="Плеер (ГУ, тёмная): видно текущий трек (ICY)">
+  <img src="docs/screenshots/gu/dark/05-equalizer.jpg" width="200" alt="Эквалайзер (ГУ, тёмная)">
+  <img src="docs/screenshots/gu/dark/02-menu.jpg" width="200" alt="Меню (ГУ, тёмная)">
+</p>
 
 ---
 
