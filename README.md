@@ -56,6 +56,11 @@
   <img src="docs/screenshots/light/06-settings.jpg" width="200" alt="Настройки">
 </p>
 
+<p align="center">
+  <img src="docs/screenshots/light/10-main-no-labels.jpg" width="200" alt="Без названий и затемнения плиток (светлая)">
+  <img src="docs/screenshots/dark/08-main-no-labels.jpg" width="200" alt="Без названий и затемнения плиток (тёмная)">
+</p>
+
 ---
 
 ## Установка
