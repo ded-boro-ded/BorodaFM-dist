@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 84,
-  "versionName": "2.4.1",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.4.1/BorodaFM_2.4.1-release.apk",
-  "sha256": "6462c4d1d428e8137b5c3d4a153da7666b47b7b6098acec4ea682b8c02840eaf",
-  "notes": "Результат проверки обновлений показывается диалогом",
+  "versionCode": 85,
+  "versionName": "2.4.2",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.4.2/BorodaFM_2.4.2-release.apk",
+  "sha256": "faca5af416db5f906c650ad83482a1388d971132a77d95a83bc996a7044c881f",
+  "notes": "Пункты обновления только в настройках; в меню — Эквалайзер и Настройки",
   "mandatory": false,
-  "publishedAt": "2026-09-27T07:47:12Z"
+  "publishedAt": "2026-09-27T08:02:37Z"
 }
