@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 93,
-  "versionName": "2.9.0",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.0/BorodaFM_2.9.0-release.apk",
-  "sha256": "5d61935b6ba89c29b478fcb4898b14065bc6ae15fd3a6b9aaa22825e8fae3d0e",
-  "notes": "Дубликаты станций: объединение похожих по названию (баннер), кнопка «Проверить дубликаты» в настройках, предупреждение при добавлении. Плеер автоматически переключается на резервный поток при обрыве основного.",
+  "versionCode": 94,
+  "versionName": "2.9.1",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.1/BorodaFM_2.9.1-release.apk",
+  "sha256": "e4e481d03d0be3caf12f79d07535c21125df53af10d1ee546d8979172eeefa04",
+  "notes": "Исправлены склонения («2 станции»), диалоги адаптированы под небольшие экраны и клавиатуру. В README/FEATURES добавлены скриншоты светлой и тёмной тем.",
   "mandatory": false,
-  "publishedAt": "2026-09-27T13:35:30Z"
+  "publishedAt": "2026-09-27T14:08:36Z"
 }
