@@ -57,13 +57,10 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/light/10-main-no-labels.jpg" width="200" alt="Без названий и затемнения плиток (светлая)">
-  <img src="docs/screenshots/dark/08-main-no-labels.jpg" width="200" alt="Без названий и затемнения плиток (тёмная)">
-</p>
-
-<p align="center">
   <img src="docs/screenshots/dark/09-manage-stations.jpg" width="200" alt="Управление станциями (тёмная)">
   <img src="docs/screenshots/dark/10-add-station.jpg" width="200" alt="Добавление станции (тёмная)">
+  <img src="docs/screenshots/light/10-main-no-labels.jpg" width="200" alt="Без названий и затемнения плиток (светлая)">
+  <img src="docs/screenshots/dark/08-main-no-labels.jpg" width="200" alt="Без названий и затемнения плиток (тёмная)">
 </p>
 
 ---
