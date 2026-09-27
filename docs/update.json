@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 91,
-  "versionName": "2.7.0",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.7.0/BorodaFM_2.7.0-release.apk",
-  "sha256": "b0e26052f749986fdafbb3953e7d712eacfae48b05f527912000ee26820befa9",
-  "notes": "Новые станции каталога помечаются меткой NEW (14 дней); после обновления каталога один раз показывается баннер «Каталог обновлён: +N станций». Добавлена подробная инструкция по менеджеру станций.",
+  "versionCode": 92,
+  "versionName": "2.8.0",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.8.0/BorodaFM_2.8.0-release.apk",
+  "sha256": "0f3c3f4c374eecf453f85ce48b11adced8461854fe9c967682091b235a9bf635",
+  "notes": "Станции, добавленные вручную, объединяются с каталогом: дубликатов больше нет, потоки пользователя используются как резервные, избранное и история сохраняются. Метка NEW показывается 7 дней.",
   "mandatory": false,
-  "publishedAt": "2026-09-27T12:39:29Z"
+  "publishedAt": "2026-09-27T13:04:18Z"
 }
