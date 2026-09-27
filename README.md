@@ -38,6 +38,26 @@
 
 ---
 
+## Скриншоты
+
+Есть светлая и тёмная темы; интерфейс адаптируется под телефон и автомагнитолу.
+
+<p align="center">
+  <img src="docs/screenshots/light/01-main.jpg" width="200" alt="Главный экран">
+  <img src="docs/screenshots/light/08-now-playing.jpg" width="200" alt="Плеер">
+  <img src="docs/screenshots/light/05-equalizer.jpg" width="200" alt="Эквалайзер">
+  <img src="docs/screenshots/light/04-genres.jpg" width="200" alt="Жанры">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/dark/01-main.jpg" width="200" alt="Тёмная тема">
+  <img src="docs/screenshots/dark/07-now-playing.jpg" width="200" alt="Плеер (тёмная)">
+  <img src="docs/screenshots/dark/04-genres.jpg" width="200" alt="Жанры (тёмная)">
+  <img src="docs/screenshots/light/06-settings.jpg" width="200" alt="Настройки">
+</p>
+
+---
+
 ## Установка
 
 1. Скачайте APK из раздела [Releases](../../releases/latest).
