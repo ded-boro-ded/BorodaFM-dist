@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 92,
-  "versionName": "2.8.0",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.8.0/BorodaFM_2.8.0-release.apk",
-  "sha256": "0f3c3f4c374eecf453f85ce48b11adced8461854fe9c967682091b235a9bf635",
-  "notes": "Станции, добавленные вручную, объединяются с каталогом: дубликатов больше нет, потоки пользователя используются как резервные, избранное и история сохраняются. Метка NEW показывается 7 дней.",
+  "versionCode": 93,
+  "versionName": "2.9.0",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.0/BorodaFM_2.9.0-release.apk",
+  "sha256": "5d61935b6ba89c29b478fcb4898b14065bc6ae15fd3a6b9aaa22825e8fae3d0e",
+  "notes": "Дубликаты станций: объединение похожих по названию (баннер), кнопка «Проверить дубликаты» в настройках, предупреждение при добавлении. Плеер автоматически переключается на резервный поток при обрыве основного.",
   "mandatory": false,
-  "publishedAt": "2026-09-27T13:04:18Z"
+  "publishedAt": "2026-09-27T13:35:30Z"
 }
