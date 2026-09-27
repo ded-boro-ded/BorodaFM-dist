@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 88,
-  "versionName": "2.6.0",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.6.0/BorodaFM_2.6.0-release.apk",
-  "sha256": "a7e7cc6213ed50d047d0883f4dd97031f01598eefc49456dc354689858f08b3c",
-  "notes": "Необязательная анонимная статистика установок (по умолчанию выключена): видно, сколько устройств и на каких версиях, кто давно не выходил на связь",
+  "versionCode": 89,
+  "versionName": "2.6.1",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.6.1/BorodaFM_2.6.1-release.apk",
+  "sha256": "c774019cf01fc8439f71166e8ec79fb9825b5435840249b3b7e55f3ae39abbf8",
+  "notes": "Анонимная статистика установок включена по умолчанию. Уходят только случайный id установки, версия приложения и тип устройства (ГУ или телефон) — без личных данных. Выключить можно в настройках.",
   "mandatory": false,
-  "publishedAt": "2026-09-27T09:25:38Z"
+  "publishedAt": "2026-09-27T09:55:37Z"
 }
