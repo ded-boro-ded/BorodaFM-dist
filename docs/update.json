@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 86,
-  "versionName": "2.5.0",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.5.0/BorodaFM_2.5.0-release.apk",
-  "sha256": "2184cf63c4e58393e8ccfcb4ab44e4e5a1fee9865cc719476876efbc0477fe88",
-  "notes": "BorodaFM 2.5.0",
+  "versionCode": 87,
+  "versionName": "2.5.1",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.5.1/BorodaFM_2.5.1-release.apk",
+  "sha256": "956104411e1ca85f7cc8545d94096216fd908048a02455093b2419a2efa9cc03",
+  "notes": "Безопасность: фильтр ссылок при импорте резервной копии, защита локального веб-UI от CSRF/DNS-rebinding, права 600 на файлы с секретами. Аудит — docs/SECURITY.md",
   "mandatory": false,
-  "publishedAt": "2026-09-27T08:58:07Z"
+  "publishedAt": "2026-09-27T09:12:01Z"
 }
