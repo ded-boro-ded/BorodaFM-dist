@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 94,
-  "versionName": "2.9.1",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.1/BorodaFM_2.9.1-release.apk",
-  "sha256": "e4e481d03d0be3caf12f79d07535c21125df53af10d1ee546d8979172eeefa04",
-  "notes": "Исправлены склонения («2 станции»), диалоги адаптированы под небольшие экраны и клавиатуру. В README/FEATURES добавлены скриншоты светлой и тёмной тем.",
+  "versionCode": 95,
+  "versionName": "2.9.2",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.2/BorodaFM_2.9.2-release.apk",
+  "sha256": "317cbb621facea3a3199d011e4b150d3541b5c6dd9a2fdf6113149d774b1e64f",
+  "notes": "Авто-проверка обновления запускается через 15 секунд после появления интернета — не мешает запуску и воспроизведению.",
   "mandatory": false,
-  "publishedAt": "2026-09-27T14:08:36Z"
+  "publishedAt": "2026-09-27T15:03:53Z"
 }
