@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 96,
-  "versionName": "2.9.3",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.3/BorodaFM_2.9.3-release.apk",
-  "sha256": "c11c04d7abd22e635a1216fddfa30cc93574796be3fa1ded380b70dd36f40d14",
-  "notes": "Авто-качество: пинг через TCP, пороги под реальный RTT, реакция на просадки Wi-Fi-раздачи 4G. Возобновление эфира после краткого обрыва сети.",
+  "versionCode": 97,
+  "versionName": "2.9.4",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.4/BorodaFM_2.9.4-release.apk",
+  "sha256": "d0135c7c507d13a4c9d8713de0f18a6e7bedbe329fe603fde2caf5d72b9fbc68",
+  "notes": "Названия станций по центру плиток. При выключении анонимной статистики больше нет диалога-уговаривания. Скриншоты в README убраны под спойлер.",
   "mandatory": false,
-  "publishedAt": "2026-09-28T06:34:11Z"
+  "publishedAt": "2026-09-28T06:54:31Z"
 }
