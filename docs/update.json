@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 95,
-  "versionName": "2.9.2",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.2/BorodaFM_2.9.2-release.apk",
-  "sha256": "317cbb621facea3a3199d011e4b150d3541b5c6dd9a2fdf6113149d774b1e64f",
-  "notes": "Авто-проверка обновления запускается через 15 секунд после появления интернета — не мешает запуску и воспроизведению.",
+  "versionCode": 96,
+  "versionName": "2.9.3",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.3/BorodaFM_2.9.3-release.apk",
+  "sha256": "c11c04d7abd22e635a1216fddfa30cc93574796be3fa1ded380b70dd36f40d14",
+  "notes": "Авто-качество: пинг через TCP, пороги под реальный RTT, реакция на просадки Wi-Fi-раздачи 4G. Возобновление эфира после краткого обрыва сети.",
   "mandatory": false,
-  "publishedAt": "2026-09-27T15:03:53Z"
+  "publishedAt": "2026-09-28T06:34:11Z"
 }
