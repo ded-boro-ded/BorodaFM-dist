@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 101,
-  "versionName": "2.9.8",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.8/BorodaFM_2.9.8-release.apk",
-  "sha256": "77e194353c2757c3bead7d839ea8064fd8abb134554f7a6e53ba94904e98d9b4",
-  "notes": "Безопасность и защита данных: перенос настроек по Wi-Fi теперь требует одноразовый 4-значный код; при авто-обновлении APK обязательно сверяется по контрольной сумме из подписанного манифеста; закрыт обход CSRF-защиты в локальных утилитах; токен статистики передаётся заголовком.",
+  "versionCode": 102,
+  "versionName": "2.9.9",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.9/BorodaFM_2.9.9-release.apk",
+  "sha256": "da5dd5e64b63d99a20f1bc6bb592432b3e5e7745b9a8defdfda8760a16d52a9c",
+  "notes": "Радио больше не включается само после паузы: плеер не «оживает» от служебных событий системы (возврат аудио-фокуса, переподключение Bluetooth, готовность буфера) — эфир возобновляется только по вашей команде.",
   "mandatory": false,
-  "publishedAt": "2026-09-28T22:13:04Z"
+  "publishedAt": "2026-09-28T22:27:05Z"
 }
