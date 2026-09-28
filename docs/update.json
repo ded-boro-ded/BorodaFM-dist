@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 100,
-  "versionName": "2.9.7",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.7/BorodaFM_2.9.7-release.apk",
-  "sha256": "2e3cf72303d6473a93029a02feb539d04000e1126b7340e309f90e9d57682b24",
-  "notes": "Стабильный старт на автомагнитоле: убран скачок громкости при включении (плеер больше не освобождает аудио-фокус), станция стартует начисто и плавно. Убрано ложное «станция недоступна ни на одном уровне качества».",
+  "versionCode": 101,
+  "versionName": "2.9.8",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.8/BorodaFM_2.9.8-release.apk",
+  "sha256": "77e194353c2757c3bead7d839ea8064fd8abb134554f7a6e53ba94904e98d9b4",
+  "notes": "Безопасность и защита данных: перенос настроек по Wi-Fi теперь требует одноразовый 4-значный код; при авто-обновлении APK обязательно сверяется по контрольной сумме из подписанного манифеста; закрыт обход CSRF-защиты в локальных утилитах; токен статистики передаётся заголовком.",
   "mandatory": false,
-  "publishedAt": "2026-09-28T18:00:49Z"
+  "publishedAt": "2026-09-28T22:13:04Z"
 }
