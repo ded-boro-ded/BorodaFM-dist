@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 98,
-  "versionName": "2.9.5",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.5/BorodaFM_2.9.5-release.apk",
-  "sha256": "0970803f468a00dc0b49aba051aefa1ef1cded351f71978e930934e9c21c045f",
-  "notes": "Возвращено подтверждение при выключении анонимной статистики. Названия станций — по центру плитки, скриншоты — под спойлером.",
+  "versionCode": 99,
+  "versionName": "2.9.6",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.6/BorodaFM_2.9.6-release.apk",
+  "sha256": "9428a645e0adc546c28653eb944502b35527c11b84da9c91df8f8c8984e2227b",
+  "notes": "Анонимный пинг статистики уходит сразу после обновления приложения — версия в статистике обновляется без задержки.",
   "mandatory": false,
-  "publishedAt": "2026-09-28T07:16:44Z"
+  "publishedAt": "2026-09-28T08:48:47Z"
 }
