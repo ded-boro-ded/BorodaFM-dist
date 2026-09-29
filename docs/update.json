@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "versionCode": 103,
-  "versionName": "2.10.0",
-  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.10.0/BorodaFM_2.10.0-release.apk",
-  "sha256": "55512245a504fb77bdd2053e98a9416eb419155c35a5c204a2e3ed99c16b86bb",
-  "notes": "Ночной режим для ГУ: экран приложения затемняется ночью — по времени (21:00–07:00) или автоматически (по ночному режиму головного устройства, сигналу прошивки, датчику освещённости). Яркость меняется только у приложения, переход плавный, ночью можно включать тёмную тему.",
+  "versionCode": 102,
+  "versionName": "2.9.9",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.9.9/BorodaFM_2.9.9-release.apk",
+  "sha256": "da5dd5e64b63d99a20f1bc6bb592432b3e5e7745b9a8defdfda8760a16d52a9c",
+  "notes": "Радио больше не включается само после паузы: плеер не «оживает» от служебных событий системы (возврат аудио-фокуса, переподключение Bluetooth, готовность буфера) — эфир возобновляется только по вашей команде.",
   "mandatory": false,
-  "publishedAt": "2026-09-29T13:51:53Z"
+  "publishedAt": "2026-09-28T22:27:05Z"
 }
