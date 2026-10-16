@@ -309,20 +309,52 @@
 
 ## Скриншоты
 
-**Телефон**
+Темы: светлая и тёмная. Интерфейс подстраивается под телефон и автомагнитолу.
+
+### 📱 Телефон
 
 <p align="center">
-  <img src="docs/screenshots/light/01-main.jpg" width="200" alt="Главный экран: станции, история, названия">
-  <img src="docs/screenshots/light/08-now-playing.jpg" width="200" alt="Экран «Сейчас играет»: обложка и текст песни">
+  <img src="docs/screenshots/light/01-main.jpg" width="200" alt="Главный экран: названия станций, затемнение плиток, история">
+  <img src="docs/screenshots/light/08-now-playing.jpg" width="200" alt="Плеер: видно текущую песню">
   <img src="docs/screenshots/light/05-equalizer.jpg" width="200" alt="Эквалайзер">
-  <img src="docs/screenshots/dark/01-main.jpg" width="200" alt="Тёмная тема">
+  <img src="docs/screenshots/light/04-genres.jpg" width="200" alt="Жанры">
 </p>
 
-**Автомагнитола**
+<p align="center">
+  <img src="docs/screenshots/dark/01-main.jpg" width="200" alt="Главный экран в тёмной теме">
+  <img src="docs/screenshots/dark/07-now-playing.jpg" width="200" alt="Плеер в тёмной теме">
+  <img src="docs/screenshots/dark/04-genres.jpg" width="200" alt="Жанры в тёмной теме">
+  <img src="docs/screenshots/light/06-settings.jpg" width="200" alt="Настройки">
+</p>
 
 <p align="center">
-  <img src="docs/screenshots/gu/dark/01-main.jpg" width="260" alt="Сетка станций на автомагнитоле">
-  <img src="docs/screenshots/gu/dark/09-now-playing.jpg" width="260" alt="«Сейчас играет» на автомагнитоле">
+  <img src="docs/screenshots/dark/09-manage-stations.jpg" width="200" alt="Управление станциями">
+  <img src="docs/screenshots/dark/10-add-station.jpg" width="200" alt="Добавление станции">
+  <img src="docs/screenshots/light/10-main-no-labels.jpg" width="200" alt="Без названий и затемнения плиток (светлая)">
+  <img src="docs/screenshots/dark/08-main-no-labels.jpg" width="200" alt="Без названий и затемнения плиток (тёмная)">
+</p>
+
+### 🚗 Автомагнитола (ГУ)
+
+Тот же интерфейс, но крупнее и под горизонтальный экран: плитки и кнопки больше, навигация
+рассчитана на управление с руля и на касание. Ниже — съёмка с ГУ (Android 8.1, экран 1920×1080),
+светлая и тёмная темы, «Названия станций» и «Затемнение плиток» включены.
+
+<p align="center">
+  <img src="docs/screenshots/gu/light/01-main.jpg" width="260" alt="Главный экран (ГУ, светлая тема)">
+  <img src="docs/screenshots/gu/light/09-now-playing.jpg" width="260" alt="Плеер (ГУ, светлая тема)">
+  <img src="docs/screenshots/gu/light/05-equalizer.jpg" width="260" alt="Эквалайзер (ГУ, светлая тема)">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/gu/dark/01-main.jpg" width="260" alt="Главный экран (ГУ, тёмная тема)">
+  <img src="docs/screenshots/gu/dark/09-now-playing.jpg" width="260" alt="Плеер (ГУ, тёмная тема)">
+  <img src="docs/screenshots/gu/dark/04-genres.jpg" width="260" alt="Жанры (ГУ, тёмная тема)">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/gu/dark/02-menu.jpg" width="260" alt="Меню (ГУ, тёмная тема)">
+  <img src="docs/screenshots/gu/dark/06-settings.jpg" width="260" alt="Настройки (ГУ, тёмная тема)">
 </p>
 
 ## Установка
