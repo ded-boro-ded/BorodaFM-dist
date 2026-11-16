@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "versionCode": 1451,
+  "versionName": "2.12.41-beta1",
+  "apkUrl": "https://github.com/ded-boro-ded/BorodaFM-dist/releases/download/v2.12.41-beta1/BorodaFM_2.12.41-beta1-release.apk",
+  "sha256": "e0b6ba4cb8972c3de5587cc2387c1075bf094d7a77a8b103cb3fd24f1484d849",
+  "notes": "Бета 2.12.41: виджет радио в стиле лаунчера, смена станции с руля в виджете, авто-возврат эфира после звонка, короткие коды бета-доступа (10 символов), «вернуться на стабильную», обложки MusicBrainz, порядок станций, усиленная безопасность.",
+  "mandatory": false,
+  "publishedAt": "2026-11-16T08:47:45Z",
+  "channel": "beta",
+  "revoked": [],
+  "betaKeys": [
+    {
+      "h": "d6ebdd8d7ce276055859d4eac4ca00821f534c905823140a4c50ce0ffb39f44e",
+      "exp": 1802591434
+    },
+    {
+      "h": "130e46911976fc8fafaa20dfb3ca5553a89062158ec342363360b6b41ceb8023",
+      "exp": 1802594367
+    },
+    {
+      "h": "c322e2cb2c8a9e5269eadad80224c9fe4b17aa07aeb8456da6d032d0a0332aa6",
+      "exp": 1802594384
+    },
+    {
+      "h": "e388f7ff6e80c97dcb3e9a2e84acaff1bf5b080a8673ed2c8e3a8b40c421df94",
+      "exp": 1802594578
+    }
+  ]
+}
